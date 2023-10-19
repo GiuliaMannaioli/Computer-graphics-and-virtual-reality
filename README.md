@@ -5,27 +5,29 @@ All these excercises are practical work carried out during the IGR course of Té
 ## Solar System implementation
 The objective of this exercise is to develop an interactive graphics application using modern OpenGL (version 3.3 and later). The goal is to implement a small artificial solar system. 
 
-![image](https://github.com/GiuliaMannaioli/Computer-graphics-and-virtual-reality/assets/101057345/4b6e6273-bd6e-4c10-b3b3-8547710a1d60)
+![image](https://github.com/GiuliaMannaioli/Computer-graphics-and-virtual-reality/assets/101057345/66c7a746-cee2-4535-a422-d9d08ab86a82)
 
 
 ## Shadow Mapping
 The final goal is to implement two real-time rendering techniques: normal mapping and shadow
 mapping. This exercise starts with a provided codebase where basic libraries such as a 3D vector and matrix as well as simple rendering routine are already implemented.
 
-![image](https://github.com/GiuliaMannaioli/Computer-graphics-and-virtual-reality/assets/101057345/54a9a8e8-391f-41a4-b704-7e2ad6f93c84)
+![image](https://github.com/GiuliaMannaioli/Computer-graphics-and-virtual-reality/assets/101057345/90dda593-d768-4034-ab6f-102dda1bb94e)
 
-![image](https://github.com/GiuliaMannaioli/Computer-graphics-and-virtual-reality/assets/101057345/d4d458e7-a576-4ab1-9e85-764ef2075efb)
+![image](https://github.com/GiuliaMannaioli/Computer-graphics-and-virtual-reality/assets/101057345/5d7aa8a9-0af3-4d6d-bd1f-d75c5f6fe5e9)
+
 
 ## Subdivision Surface
 This excercise show how to implement a basic Loop subdivision surface. This exercise starts with a provided codebase where basic libraries such as a 3D vector and matrix as well as simple rendering routine are already implemented.
 
-![image](https://github.com/GiuliaMannaioli/Computer-graphics-and-virtual-reality/assets/101057345/7af07a5b-8408-452e-b77c-b54684890845)
+![image](https://github.com/GiuliaMannaioli/Computer-graphics-and-virtual-reality/assets/101057345/f64aa4b5-13a8-4817-9a43-86d47dd883fc)
+
 
 
 ## Rigid body simulation
 This excercise show how to implement a basic rigid body simulator in three-dimensional (3D) space. This exercise starts with a provided codebase where basic libraries such as a 3D vector and matrix as well as simple rendering routine are already implemented.
 
-![image](https://github.com/GiuliaMannaioli/Computer-graphics-and-virtual-reality/assets/101057345/7c6db607-1656-477d-83ec-fe85130f3458)
+![image](https://github.com/GiuliaMannaioli/Computer-graphics-and-virtual-reality/assets/101057345/3880de5d-e945-4410-843b-b509013b251f)
 
 
 ## Smoothed Particle Hydrodynamics (SPH) Simulation
@@ -33,5 +35,6 @@ This excercise show how to implement a basic smoothed particle hydrodynamics (SP
 two-dimensional (2D) space. This exercise starts with a provided codebase where basic math libraries such as 2D vector and cubic
 spline function as well as a simple rendering routine are already implemented.
 
-![image](https://github.com/GiuliaMannaioli/Computer-graphics-and-virtual-reality/assets/101057345/7d9680bc-f599-4cfd-b3fa-41f46f5cefe1)
+![image](https://github.com/GiuliaMannaioli/Computer-graphics-and-virtual-reality/assets/101057345/36d7bf87-c009-4741-a2b0-d188a445b941)
+
 
